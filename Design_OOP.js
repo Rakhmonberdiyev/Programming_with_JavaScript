@@ -57,7 +57,7 @@ class HouseCat extends Cat {
 }
 
 class Tiger extends Cat {
-    constructor(tigerSound = "Roar!", sound,canJumpHigh,canClimbTrees, color,energy) {
+    constructor(tigerSound = `Roar!`, sound,canJumpHigh,canClimbTrees, color,energy) {
         super(sound,canJumpHigh,canClimbTrees, color,energy);
         this.tigerSound = tigerSound;
     }
