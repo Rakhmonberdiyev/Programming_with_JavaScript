@@ -1,0 +1,15 @@
+{
+  "name": "programming_with_javascript",
+  "version": "1.0.0",
+  "description": "I started covering all task of Coursera Meta Frontend Developer certificate",
+  "main": "#1_Building_functional_program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
